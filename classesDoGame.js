@@ -1,9 +1,9 @@
-var tipo = ['Mago','Cavaleiro','Monge','Ninja']
+var tipo = 'Cavaleiro'
 class personagem{
     constructor(nome,idade,classe){
     this.nome = "Davi"
     this.idade = "21"
-    this.classe = tipo[0]
+    this.classe = tipo
     }    
     atacar() {
        
