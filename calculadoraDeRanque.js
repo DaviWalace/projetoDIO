@@ -21,7 +21,4 @@ else if (ranque >= 91 && ranque <= 100) {
 else if (ranque >= 101) {
     ranque = "Radiante"}
     }
-   
-    
-
 console.log("O Herói tem de saldo de: "+ soma + " e está no nível de: "+ ranque)
